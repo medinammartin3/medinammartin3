@@ -4,7 +4,7 @@
 
 - I'm a 2nd year Computer Science student at Université de Montreal 📚
 - My Portfolio and CV website : **[https://medinammartin3.github.io/](https://medinammartin3.github.io/)** 🔗
-- I’m currently working on Sondi 📊
+- I’m currently working on [Sondi](https://github.com/medinammartin3/Sondi) 📊
 - Colombian 🇨🇴
 
 
