@@ -16,14 +16,3 @@
 ## :fire: My Stats :
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=medinammartin3&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=medinammartin3&theme=dark&background=000000)](https://git.io/streak-stats)
-
-![Kittinan's github stats](https://github-readme-stats.vercel.app/api?username=medinammartin3&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
-
-```txt
-©  /\\/\//\//\
-  \|/|\|/|\|/|/
- /|/|\|/|\|\’ .\
- ‘`|_|————|_|———o
-```
