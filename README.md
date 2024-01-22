@@ -2,12 +2,13 @@
 
 ## :man_technologist: About Me :
 
+- I'm a 2nd year Computer Science student at Université de Montreal 📚
 - My Portfolio and CV website : **[https://medinammartin3.github.io/](https://medinammartin3.github.io/)** 🔗
 - I’m currently working on Sondi 📊
-- I'm a 2nd year Computer Science student at Université de Montreal 📚
 - Colombian 🇨🇴
 
-## :hammer_and_wrench: Languages and Tools :
+
+<!-- ## :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
@@ -24,6 +25,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
 </div>
+-->
 
 ## :fire: My Stats :
 
