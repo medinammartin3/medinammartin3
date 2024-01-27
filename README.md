@@ -1,6 +1,6 @@
 # <div align="center">Hi! I'm Martin 🦔</div>
 
-## :man_technologist: About Me :
+## 👨‍💻 About Me :
 
 - I'm a 2nd year Computer Science student at Université de Montreal 📚
 - My Portfolio and CV website : **[https://medinammartin3.github.io/](https://medinammartin3.github.io/)** 🔗
@@ -27,6 +27,6 @@
 </div>
 -->
 
-## :fire: My Stats :
+## 📈 My Stats :
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=medinammartin3&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
