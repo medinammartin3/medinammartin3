@@ -1,5 +1,7 @@
 # <div align="center">Hi! I'm Martin 🦔</div>
 
+<br>
+
 ## 👨‍💻 About Me :
 
 - I'm a 2nd year Computer Science student at Université de Montreal 📚
