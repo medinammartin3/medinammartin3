@@ -1,4 +1,14 @@
-Hi! I'm Martin 🦔
+# <div id="title" align="center">Hi! I'm Martin 🦔</div>
+
+<div id="badges" align="center">
+
+  <a href="https://medinammartin3.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio%20&%20CV-B7B597?style=for-the-badge&logo=googlechrome&logoColor=F5F5F5" alt="Chrome Badge"/>
+  </a>
+  <a href="https://www.linkedin.com/in/medinammartin3/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
 
 ## 👨‍💻 About Me :
 
