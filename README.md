@@ -30,6 +30,3 @@ Hi! I'm Martin 🦔
 ## 📈 My Stats :
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=medinammartin3&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=medinammartin3&layout=compact&theme=vision-friendly-dark))](https://github.com/anuraghazra/github-readme-stats)
-
