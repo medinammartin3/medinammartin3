@@ -1,9 +1,9 @@
-# <div align="center">Hi! I'm Martin 🦔</div>
+Hi! I'm Martin 🦔
 
 ## 👨‍💻 About Me :
 
-- I'm a 2nd year Computer Science student at Université de Montreal 📚
-- My Portfolio and CV website : **[https://medinammartin3.github.io/](https://medinammartin3.github.io/)** 🔗
+- I'm a 3rd year Computer Science student at Université de Montreal 📚
+- My Portfolio & CV website : **[https://medinammartin3.github.io/](https://medinammartin3.github.io/)** 🔗
 - I’m currently working on [Sondi](https://github.com/medinammartin3/Sondi) 📊
 - Colombian 🇨🇴
 
@@ -30,3 +30,6 @@
 ## 📈 My Stats :
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=medinammartin3&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=medinammartin3&layout=compact&theme=vision-friendly-dark))](https://github.com/anuraghazra/github-readme-stats)
+
