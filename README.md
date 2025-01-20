@@ -1,13 +1,9 @@
 # <div id="title" align="center">Hi! I'm Martin 🦔</div>
 
 <div id="badges" align="center">
-  <a href="https://medinammartin3.github.io/">
-    <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website Badge"/>
-  </a> 
+  <a href="https://medinammartin3.github.io/"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website Badge"/></a> 
   &nbsp;
-  <a href="https://www.linkedin.com/in/medinammartin3/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
+  <a href="https://www.linkedin.com/in/medinammartin3/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
 </div>
 
 ## 👨‍💻 About Me :
