@@ -8,7 +8,7 @@
 
 ## 👨‍💻 About Me :
 
-- I'm a 3rd year Computer Science student at Université de Montréal 📚
+- I'm a M.Sc in Machine learning student at MILA 🤖
 - My Portfolio & CV website : **[https://medinammartin3.github.io/](https://medinammartin3.github.io/)** 🔗
 - I’m currently working on [Sondi](https://github.com/medinammartin3/Sondi) 📊
 - Colombian 🇨🇴
