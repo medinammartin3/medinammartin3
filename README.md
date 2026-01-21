@@ -9,9 +9,9 @@
 ## 👨‍💻 About Me :
 
 - I'm a M.Sc in Machine learning student at MILA 🤖
-- My Portfolio & CV website (NOT UP TO DATE) : **[https://medinammartin3.github.io/](https://medinammartin3.github.io/)** 🔗
-- I’m currently working on [Sondi](https://github.com/medinammartin3/Sondi) 📊
-- Colombian 🇨🇴
+- My Personal Website & Portfolio : **[https://medinammartin3.github.io/](https://medinammartin3.github.io/)** 🔗
+[comment]: <> (- I’m currently working on [Sondi](https://github.com/medinammartin3/Sondi) 📊)
+[comment]: <> (- Colombian 🇨🇴)
 
 ## 📈 My Stats :
 
